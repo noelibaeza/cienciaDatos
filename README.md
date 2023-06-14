@@ -14,8 +14,8 @@ Antes de comenzar a colaborar, se debe clonar el repositorio en su máquina loca
 
 ## 2. Crear una rama (branch) de trabajo
 Es importante trabajar en ramas separadas para evitar conflictos directos con la rama principal. Pueden crear una nueva rama utilizando el siguiente comando:
-
-`git checkout nombre_de_la_rama` <br>
+`git branch nombre_de_la_rama` Crear una rama <br> 
+`git checkout nombre_de_la_rama` Moverte a la rama  <br>
 
 pueden nombrar la rama con su nombre
 
@@ -32,6 +32,8 @@ Antes de enviar los cambios al repositorio principal, es recomendable mantener s
 `git pull origin main` Mantienen actualizados sus repositorios locales <br>
 `git checkout nombre_de_la_rama` Se mueven a su rama <br>
 `git merge main` Mezclan su rama con la rama principal <br>
+
+[Hoja de ayuda comandos GIT](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 
 
 
